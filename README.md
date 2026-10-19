@@ -1,12 +1,13 @@
-# Business Central extensibility requests
+# Business Central extensibility requests (retired)
 
 > [!IMPORTANT]
-> **This repository is being retired.**
+> **This repository was retired on 19 October 2026.**
 >
-> - **You can no longer create issues here.** Extensibility requests, including event requests, have moved to [BCApps](https://github.com/microsoft/BCApps/issues/new/choose).
-> - **On 19 October 2026** this repository will be archived and become read-only. Nothing is deleted — all issues and links keep working.
+> - **New issues and pull requests are no longer accepted here.** Business Central application contributions and extensibility requests, including event requests, now belong in [BCApps](https://github.com/microsoft/BCApps).
+> - **The final backlog has been closed.** Accepted work still in progress continues through its existing internal tracking or BCApps pull request. Retirement does not cancel that work.
+> - This repository is retained for historical reference. Existing code, issues, comments, and links remain available.
 >
-> Requests already open here will be processed before archiving, so there is no need to re-file them in BCApps. See [the announcement](https://github.com/microsoft/ALAppExtensions/issues/30411) for details.
+> See [the retirement announcement](https://github.com/microsoft/ALAppExtensions/issues/30411) for details. Thank you to everyone who contributed to ALAppExtensions.
 
 This repository no longer accepts new issues or pull requests.
 
